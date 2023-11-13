@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+ <head>
+   <title>Airwars</title>
+ </head>
+ <body>
+   <nav>
+     <ul>
+       <li><a href=”/”>Home</a></li>
+       <li><a href=”/about”>About</a></li>
+       <li><a href=”/resume”>Resume</a></li>
+       <li><a href=”/blog”>Blog</a></li>
+     </ul>
+   </nav>
+   <div class=”container”>
+     <div class=”blurb”>
+       <h1>Hi, I am YOUR NAME!</h1>
+       <p>I carry out reporting and co-write articles, and Ialso produce voice-overs and assist in visual investigations, such as on <a href="https://airwars.org/news-and-investigations/anatomy-of-a-russian-cluster-munition-strike-explainer/">this video documenting the use&nbsp; of cluster munitions in Ukraine.</a> I report from conferences and write responsive news pieces, such as <a href="https://airwars.org/news-and-investigations/as-key-geneva-meet-ends-states-edge-towards-explosive-weapons-deal/">my reporting from the Explosive Weapons in Populated Areas conference at the UN, here.</a>&nbsp;<br>&nbsp;<br>
+<i><b>A list of all my work at Airwars</b></i><br>
+<div grid-row="" grid-pad="5" grid-gutter="10" grid-responsive=""><div grid-col="x12" grid-pad="5"><br>
+2023<br>
+Orlan-1o components for <a href="https://www.spiegel.de/ausland/russland-landet-deutsche-elektronik-in-russischen-drohnen-trotz-sanktionen-a-ff8f672d-790f-4dbc-a8e6-e33d0841d4b1" target="_blank">Der Spiegel</a> (IJ4EU funded)<br>
+Russia deploys ‘Albatross’ made in Iran-backed factory, for the <a href="https://www.ft.com/content/3135edf7-2b80-4df4-9923-b96382d2fee5" target="_blank">Financial Times</a> (IJ4EU funded)<br>
+Investigation into the missing victims of British airstrikes carried out in Iraq and Syria, in collaboration with <a href="https://www.theguardian.com/world/2023/mar/21/multiple-civilian-deaths-linked-to-2016-17-british-airstrikes-against-is-in-mosul" target="_blank">The Guardian</a><br>
+<span></span><span>Associate producer on a year long investigation, produced by Airwars, Vice and Showtime into an audacious prison raid by ISIS on January 2022, culminating in a <a href="https://t.co/zRvSwPSydX" target="_blank">45 minute documentary,</a> <a href="https://www.sho.com/vice/season/3/episode/16/isis-jailbreak-and-right-wing-stars" target="_blank">15 minute documentary </a>and <a href="https://airwars.org/investigation/syria-prison-break-isis-us-mistakes/" target="_blank">two immersive</a> <a href="https://www.vice.com/en_uk/feature/v7va98/isis-syria-jailbreak" target="_blank">visual articles</a></span><br><br>
+2022</div></div>
+<br><a href="https://newlinesmag.com/reportage/counting-the-dead-in-ukraine/">ounting the dead in Ukraine for New Lines Magazine</a><br>
+<a href="https://www.theguardian.com/world/2022/mar/24/how-russia-is-using-tactics-from-the-syrian-playbook-in-ukraine">How Russia is using tactics from the Syrian playbook, for the Guardian</a><br>
+<a href="https://airwars.org/news-and-investigations/anatomy-of-a-russian-cluster-munition-strike-explainer/">Cluster munitions in Ukraine</a> for Airwars<br>
+<a href="https://newlinesmag.com/reportage/gaza-and-syria-a-tale-of-two-israeli-air-wars/">Gaza and Syria : A Tale of Two Israeli Air Wars</a> for New Lines Magazine<br>
+<a href="https://youtu.be/3gJbrK2YgZU">Afrin a year on&nbsp;</a>for Airwars<br></a></p>
+     </div>
+   </div>
+ </body>
+</html>
